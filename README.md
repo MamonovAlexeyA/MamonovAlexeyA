@@ -49,6 +49,8 @@
  ```
 I am currently studying at **Obninsk Institute for Nuclear Power Engineering** :atom:
 
+![](https://vodopribor.su/upload/iblock/8b5/8b5dd9c56eaff12378d99c5c03ea0103.png) 
+
 (a branch of the Moscow Engineering and Physics Institute) 
 
 ***
