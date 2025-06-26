@@ -1,16 +1,65 @@
-## Hi there 👋
+<pre>
+      ___           ___           ___       ___       ___             ___
+     /\__\         /\  \         /\__\     /\__\     /\  \           /\__\     
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \         /:/  /
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \       /:/  /
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \     /:/  /
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\    \/__/
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /  ___
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  /  /\__\
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /   \/__/ 
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
-<!--
-**MamonovAlexeyA/MamonovAlexeyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  About me :shipit:
+
+***
+
+ ```python
+ class Alexey
+   def initialize
+   {
+     @name = 'Mamonov Alexey Alexandrovich'
+     @age = 19
+     @education = [ ' SBEI of the city of Moscow "School No. 2075" ', 'Obninsk Institute for Nuclear Power Engineering' ]
+   }
+
+   def languages
+     {
+       human: [ 'English', 'Russian' ],
+       programming: [ 'C++', 'Python', 'Java', 'C#', 'C' ]
+      }
+   end
+
+   def location
+     'Russia, Moscow'
+   end
+
+   def activity
+     {
+       studying: [ 'Many branches of mathematics', 'Algorithms', 'Programming' ],
+       sport: [ 'Climbing', 'Basketball', 'Gym' ],
+       hobby: [ 'Music', 'Cinematography', 'Handcraft' ]
+      }
+   end
+ end
+ ```
+I am currently studying at **Obninsk Institute for Nuclear Power Engineering** :atom:
+
+(a branch of the Moscow Engineering and Physics Institute) 
+
+***
+## Contact
+
++ [VK](https://vk.com/mamonovalexeya) 
+
++ [Telegram](https://web.telegram.org/k/@AlexeyAlexandr0vich)
+
++ [Mail](lesha.town@gmail.com)
+
++ @alexyemamonov - on Instagram
+
+:godmode:
