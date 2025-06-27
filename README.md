@@ -58,12 +58,12 @@ I am currently studying at **Obninsk Institute for Nuclear Power Engineering** :
 
 + [VK](https://vk.com/mamonovalexeya) 
 
-+ [Telegram](https://web.telegram.org/k/@AlexeyAlexandr0vich)
-
-+ [Mail](lesha.town@gmail.com)
-
 + [LeetCode](https://leetcode.com/u/LexusAMA/)
 
-+ @alexyemamonov - on Instagram
++ lesha.town@gmail.com - Mail
+
++ @AlexeyAlexandr0vich - Telegram
+
++ @alexyemamonov - Instagram
 
 :godmode:
